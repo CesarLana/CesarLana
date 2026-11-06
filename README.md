@@ -20,11 +20,11 @@
 
 ## Olá, eu sou o Cesar 👋
 
-Analista de Infraestrutura na **DXC Technology**, com foco em automação de infraestrutura, arquiteturas resilientes na AWS e cultura **FinOps**.
+Analista de Infraestrutura Jr na **DXC Technology**, atuando em um ambiente crítico do setor bancário no **Projeto Itaú** — suporte técnico presencial e remoto, gerenciamento de incidentes, administração de acessos com **Microsoft 365**, **Azure AD** e **ServiceNow**.
 
-Tenho experiência prática com suporte N1/N2, gestão de identidades (**Azure AD / AWS IAM**) e resolução de incidentes em ambientes corporativos. Nos meus projetos pessoais, construo e automatizo infraestrutura real na AWS — de containers no ECR a pipelines de backup com Python e políticas de acesso seguro via Systems Manager.
+Nos meus projetos pessoais, construo e automatizo infraestrutura real na AWS: containers no ECR, pipelines de backup com Python, automação de provisionamento IAM via Bash e arquiteturas de alta disponibilidade com ALB, Auto Scaling e Route 53.
 
-Meu objetivo: fazer a transição completa para **Cloud & DevOps Engineer** e continuar entregando infraestrutura que escala, não quebra e custa menos.
+Busco migrar para uma posição em **Cloud Computing, DevOps ou Dados** — aplicando o que aprendo na prática e construindo sistemas que escalam, não quebram e custam menos.
 
 ---
 
