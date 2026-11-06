@@ -21,7 +21,7 @@ São Paulo, SP · [LinkedIn](https://www.linkedin.com/in/cesarlana/) · [GitHub]
 
 ---
 
-## 🚀 Projetos Práticos com Código
+## 🚀 Projetos em Destaque
 
 ### 📦 [Deploy de Aplicação Web com Docker & AWS ECR](https://github.com/CesarLana/projeto-devops-aws-docker)
 - Containerização de aplicação web com imagem leve baseada em **Nginx Alpine (~25MB)**.
@@ -38,11 +38,26 @@ São Paulo, SP · [LinkedIn](https://www.linkedin.com/in/cesarlana/) · [GitHub]
 
 ---
 
+## ☁️ Labs Práticos de AWS (Escola da Nuvem & Arquitetura)
+
+Repositórios contendo os códigos executáveis, scripts de automação, políticas IAM e documentação de arquitetura desenvolvidos durante a formação técnica AWS re/Start:
+
+| Lab / Repositório | Arquitetura & Implementação | Tecnologias |
+|:---|:---|:---|
+| 🌐 **[aws-lab-alb-autoscaling](https://github.com/CesarLana/aws-lab-alb-autoscaling)** | Alta disponibilidade multi-AZ com Application Load Balancer, Target Groups e Auto Scaling Group baseado em métricas de CPU do CloudWatch. | `ALB` `ASG` `EC2` `CloudWatch` |
+| 🔄 **[aws-lab-route53-failover](https://github.com/CesarLana/aws-lab-route53-failover)** | Resiliência ativo/standby entre zonas e regiões com Amazon Route 53 Failover Routing, Health Checks HTTP de 10s e alarmes via Amazon SNS. | `Route 53` `SNS` `Health Check` |
+| 🔒 **[aws-lab-ssm-session-manager](https://github.com/CesarLana/aws-lab-ssm-session-manager)** | Administração remota de servidores EC2 com Zero-Trust (porta 22/SSH fechada na internet) via AWS Systems Manager Session Manager e Run Command. | `SSM` `Session Manager` `IAM` |
+| 🗄️ **[aws-lab-rds-migration](https://github.com/CesarLana/aws-lab-rds-migration)** | Migração de banco on-instance (MariaDB no EC2) para serviço gerenciado Amazon RDS Multi-AZ em subnets privadas com desacoplamento via Parameter Store. | `RDS` `MariaDB` `mysqldump` `SSM` |
+| 🐍 **[aws-lab-ebs-backup-boto3](https://github.com/CesarLana/aws-lab-ebs-backup-boto3)** | Rotina de automação de snapshots de volumes EBS em Python com Boto3, agendada via Cron, com retenção automática e expurgo de backups antigos. | `Python` `Boto3` `EBS` `Cron` |
+| 📜 **[aws-lab-iam-automation-bash](https://github.com/CesarLana/aws-lab-iam-automation-bash)** | Script Bash para provisionamento em massa de usuários no AWS IAM a partir de arquivo CSV, com menor privilégio e troca obrigatória de senha no 1º acesso. | `Bash` `AWS CLI` `IAM` `Security` |
+
+---
+
 ## 🛠 Competências Técnicas
 
 - **Sistemas & Operações Corporativas:** Windows Server / Desktop, Microsoft 365, Azure AD (Entra ID), Active Directory, ServiceNow (ITSM), Linux.
-- **Cloud & Containers (Formação & Labs):** AWS (EC2, S3, RDS, IAM, VPC, Security Groups, ECR), Docker, Docker Compose.
-- **Linguagens & Análise:** Python, SQL (MySQL), Bash para automação, Power BI, Git e GitHub.
+- **Cloud & Containers:** AWS (EC2, S3, RDS, IAM, VPC, Security Groups, ECR, ALB, Route 53, SSM), Docker, Docker Compose.
+- **Linguagens & Automação:** Python (Boto3, Pandas), SQL (MySQL), Bash para automação, Power BI, Git e GitHub.
 
 ---
 
