@@ -20,23 +20,11 @@
 
 ## Olá, eu sou o Cesar 👋
 
-Trabalho como **Analista de Infraestrutura na DXC Technology**, onde faço suporte N1/N2, gestão de identidades com **Azure AD e AWS IAM**, e resolução de incidentes via ServiceNow.
+Analista de Infraestrutura na **DXC Technology**, com foco em automação de infraestrutura, arquiteturas resilientes na AWS e cultura **FinOps**.
 
-Paralelamente, estou me especializando em **Cloud e DevOps** — completei o programa **AWS re/Start** (Escola da Nuvem) e a **X Escola Avançada em Big Data Analysis** (ICMC - USP). Estou cursando o 4º semestre de **Análise e Desenvolvimento de Sistemas** na FMU | FIAM-FAAM.
+Tenho experiência prática com suporte N1/N2, gestão de identidades (**Azure AD / AWS IAM**) e resolução de incidentes em ambientes corporativos. Nos meus projetos pessoais, construo e automatizo infraestrutura real na AWS — de containers no ECR a pipelines de backup com Python e políticas de acesso seguro via Systems Manager.
 
-Meu objetivo é consolidar minha atuação como **Cloud & DevOps Engineer**, construindo infraestruturas resilientes, automatizadas e econômicas na AWS.
-
-```bash
-$ whoami
-> Cesar Lana | Cloud & DevOps Engineer | São Paulo, BR
-
-$ cat interests.txt
-> Infrastructure as Code (Terraform)
-> Container Orchestration (Docker, AWS ECS)
-> FinOps & Cost Optimization
-> Python & Bash Automation (Boto3)
-> High Availability & Disaster Recovery
-```
+Meu objetivo: fazer a transição completa para **Cloud & DevOps Engineer** e continuar entregando infraestrutura que escala, não quebra e custa menos.
 
 ---
 
