@@ -50,6 +50,11 @@ Repositórios contendo os códigos executáveis, scripts de automação, políti
 | 🗄️ **[aws-lab-rds-migration](https://github.com/CesarLana/aws-lab-rds-migration)** | Migração de banco on-instance (MariaDB no EC2) para serviço gerenciado Amazon RDS Multi-AZ em subnets privadas com desacoplamento via Parameter Store. | `RDS` `MariaDB` `mysqldump` `SSM` |
 | 🐍 **[aws-lab-ebs-backup-boto3](https://github.com/CesarLana/aws-lab-ebs-backup-boto3)** | Rotina de automação de snapshots de volumes EBS em Python com Boto3, agendada via Cron, com retenção automática e expurgo de backups antigos. | `Python` `Boto3` `EBS` `Cron` |
 | 📜 **[aws-lab-iam-automation-bash](https://github.com/CesarLana/aws-lab-iam-automation-bash)** | Script Bash para provisionamento em massa de usuários no AWS IAM a partir de arquivo CSV, com menor privilégio e troca obrigatória de senha no 1º acesso. | `Bash` `AWS CLI` `IAM` `Security` |
+| 🌐 **[aws-lab-s3-static-website](https://github.com/CesarLana/aws-lab-s3-static-website)** | Hospedagem de site estático no Amazon S3 com AWS CLI v2, Bucket Policy de leitura pública e script Bash para deploy e sincronização contínua. | `S3` `AWS CLI` `Bash` `Web Hosting` |
+| 🛣️ **[aws-lab-vpc-networking](https://github.com/CesarLana/aws-lab-vpc-networking)** | Segmentação e segurança de rede com VPC, Subnets Pública e Privada, Internet Gateway, NAT Gateway e Bastion Host para acesso administrativo. | `VPC` `NAT Gateway` `Bastion Host` `Networking` |
+| 📜 **[aws-lab-cloudformation](https://github.com/CesarLana/aws-lab-cloudformation)** | Infraestrutura como Código (IaC) com AWS CloudFormation em YAML: provisionamento e ciclo de vida incremental de VPC, S3 e EC2 com AMI dinâmica. | `CloudFormation` `IaC` `YAML` `DevOps` |
+| ⚡ **[aws-lab-lambda-serverless](https://github.com/CesarLana/aws-lab-lambda-serverless)** | Arquitetura Serverless orientada a eventos (*Event-Driven*): gatilho de upload no Amazon S3 executando função Python no AWS Lambda e alertando via SNS. | `AWS Lambda` `Serverless` `S3 Trigger` `SNS` |
+| 📊 **[aws-lab-cloudwatch-monitoring](https://github.com/CesarLana/aws-lab-cloudwatch-monitoring)** | Observabilidade e governança: CloudWatch Agent via SSM Run Command, filtros de métrica para erros HTTP 404, alarmes com SNS e regras de compliance com AWS Config. | `CloudWatch` `SSM` `AWS Config` `SNS` |
 
 ---
 
