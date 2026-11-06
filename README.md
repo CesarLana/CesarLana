@@ -20,11 +20,11 @@
 
 ## Olá, eu sou o Cesar 👋
 
-Analista de Infraestrutura Jr na **DXC Technology**, atuando em um ambiente crítico do setor bancário no **Projeto Itaú** — suporte técnico presencial e remoto, gerenciamento de incidentes, administração de acessos com **Microsoft 365**, **Azure AD** e **ServiceNow**.
+Atuei como **Analista de Infraestrutura Jr na DXC Technology** no **Projeto Itaú** — ambiente crítico do setor bancário com suporte técnico, gerenciamento de incidentes e administração de acessos com **Microsoft 365**, **Azure AD** e **ServiceNow**.
 
 Nos meus projetos pessoais, construo e automatizo infraestrutura real na AWS: containers no ECR, pipelines de backup com Python, automação de provisionamento IAM via Bash e arquiteturas de alta disponibilidade com ALB, Auto Scaling e Route 53.
 
-Busco migrar para uma posição em **Cloud Computing, DevOps ou Dados** — aplicando o que aprendo na prática e construindo sistemas que escalam, não quebram e custam menos.
+Busco uma posição em **Cloud Computing, DevOps ou Dados** — aplicando o que aprendo na prática e construindo sistemas que escalam, não quebram e custam menos.
 
 ---
 
@@ -36,13 +36,21 @@ Busco migrar para uma posição em **Cloud Computing, DevOps ou Dados** — apli
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure_AD-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
   <img src="https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=white"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
 </p>
 
 **AWS:** `EC2` `ECS` `ECR` `S3` `RDS` `VPC` `Route 53` `ALB` `Auto Scaling` `IAM` `CloudWatch` `SSM` `SNS`
