@@ -4,24 +4,24 @@
 
 ### **Analista de Infraestrutura | Cloud & DevOps**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Infraestrutura+de+TI+%26+Cloud+Computing;Arquitetura+AWS+%26+CloudFormation;Containers+Docker+%26+Amazon+ECR;Automa%C3%A7%C3%A3o+com+Bash+%26+Python+Boto3;Ambientes+Cr%C3%ADticos+Banc%C3%A1rios+(Ita%C3%BA+%26+B3)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Infraestrutura+de+TI+%26+Cloud+Computing;Arquitetura+AWS+%26+CloudFormation;Containers+Docker+%26+Amazon+ECR;Automa%C3%A7%C3%A3o+com+Bash+%26+Python+Boto3;Ambientes+Cr%C3%ADticos+Banc%C3%A1rios+(Ita%C3%BA+%26+B3)" alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesarlana)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CesarLana)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cesarlana1511@gmail.com)
-[![Localização](https://img.shields.io/badge/São_Paulo-SP-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Sao+Paulo,+SP)
+<a href="https://www.linkedin.com/in/cesarlana"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/CesarLana"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:cesarlana1511@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://maps.google.com/?q=Sao+Paulo,+SP"><img src="https://img.shields.io/badge/São_Paulo-SP-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Localização" /></a>
 
-<br/>
+<br/><br/>
 
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.linux.org/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![Microsoft Entra ID](https://img.shields.io/badge/Entra_ID_(Azure_AD)-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
-[![ServiceNow](https://img.shields.io/badge/ServiceNow_(ITSM)-293E40?style=flat-square&logo=servicenow&logoColor=white)](https://www.servicenow.com/)
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+<img src="https://img.shields.io/badge/Entra_ID_(Azure_AD)-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Entra ID" />
+<img src="https://img.shields.io/badge/ServiceNow_(ITSM)-293E40?style=flat-square&logo=servicenow&logoColor=white" alt="ServiceNow" />
 
 </div>
 
