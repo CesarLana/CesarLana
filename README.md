@@ -1,44 +1,58 @@
-# Cesar Lana
+# Cesar Barbosa de Lana
 
-**Analista de Infraestrutura | Cloud Computing**  
-São Paulo, SP · [LinkedIn](https://www.linkedin.com/in/cesarlana/) · [GitHub](https://github.com/CesarLana)
+**Analista de Infraestrutura | Cloud & DevOps**  
+São Paulo, SP · [cesarlana1511@gmail.com](mailto:cesarlana1511@gmail.com) · [LinkedIn](https://www.linkedin.com/in/cesarlana) · [GitHub](https://github.com/CesarLana)
+
+---
+
+## 👤 Sobre Mim & Resumo Profissional
+
+Profissional de tecnologia com sólida base em suporte e infraestrutura de TI em ambiente corporativo crítico do setor bancário (Itaú) e financeiro (B3). Possuo conhecimentos práticos em Windows Server/Desktop, Linux, Microsoft 365, Microsoft Entra ID (Azure AD), AWS, Docker, Git, Python e ServiceNow (ITSM). Busco atuar na área de Infraestrutura, Cloud & DevOps, implementando soluções escaláveis em nuvem e automação de processos operacionais.
 
 ---
 
 ## 💼 Experiência Profissional
 
-### **DXC Technology — Analista de Infraestrutura Jr (Projeto Itaú)**
+### **DXC Technology** *(Novembro de 2025 – Novembro de 2026)*
+
+#### **Analista de Suporte Técnico — Projeto B3**
+*Outubro de 2026 – Novembro de 2026 (Projeto Temporário / Rollout)*
+- Atuação com escopo fechado no projeto de modernização do parque tecnológico da **B3 (Bolsa de Valores)**, prestando suporte técnico presencial de hardware e conectividade de rede.
+- Gerenciamento e acompanhamento de chamados corporativos utilizando as plataformas de ITSM **Helix** e **InvGate**.
+- Preparação, configuração e troca de **4 máquinas por dia (cerca de 80 equipamentos entregues no projeto)**, incluindo imagens de SO, perfis de usuário, backup, restore e troubleshooting.
+
+#### **Analista de Infraestrutura Jr — Projeto Itaú**
 *Novembro de 2025 – Setembro de 2026*
-- Atuação em ambiente crítico do setor bancário, prestando suporte técnico e operacional presencial e remoto.
-- Administração de identidades, acessos e permissões utilizando **Microsoft Entra ID (Azure AD)**, **Active Directory** e **Microsoft 365**.
-- Abertura, gestão e resolução de incidentes e requisições via **ServiceNow (ITSM)**, cumprindo SLAs operacionais.
-- Troubleshooting de redes, diagnóstico de conectividade, manutenção e configuração de sistemas.
+- Atuação em ambiente crítico do setor bancário, prestando suporte técnico presencial e remoto com estrito cumprimento de SLAs operacionais.
+- Administração de identidades, grupos e permissões de acesso utilizando **Microsoft 365**, **Microsoft Entra ID (Azure AD)**, **Active Roles** e **ServiceNow (ITSM)**.
+- Diagnóstico de conectividade, troubleshooting de redes e configuração de estações de trabalho e sistemas corporativos.
+
+---
 
 ### **AeC Contact Center — Agente de Suporte Técnico N1/N2**
 *Abril de 2025 – Julho de 2025*
-- Atendimento técnico e suporte N1/N2, diagnóstico remoto de problemas de rede e conectividade.
-- Registro e acompanhamento de chamados técnicos via plataforma **Salesforce**.
+- Atendimento técnico e suporte N1/N2 a usuários corporativos, com diagnóstico remoto de problemas de rede e conectividade.
+- Registro, categorização e acompanhamento de chamados e incidentes por meio da plataforma **Salesforce**.
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-### 📦 [Deploy de Aplicação Web com Docker & AWS ECR](https://github.com/CesarLana/projeto-devops-aws-docker)
-- Containerização de aplicação web com imagem leve baseada em **Nginx Alpine (~25MB)**.
+### 📦 [Deploy de Aplicação Web com Docker & Amazon ECR](https://github.com/CesarLana/projeto-devops-aws-docker)
+- Conteinerização de aplicação web com imagem leve baseada em **Nginx Alpine (~25MB)**.
 - Orquestração local simplificada via **Docker Compose**.
-- Autenticação e publicação de imagens no registro privado **Amazon ECR** via AWS CLI v2 com token temporário.
-- **Tecnologias:** `Docker` `Nginx` `Amazon ECR` `AWS CLI` `Linux`
+- Autenticação e publicação de imagens no registro privado **Amazon ECR** via AWS CLI v2 com tokens temporários.
+- **Tecnologias:** `Docker` `Docker Compose` `Nginx` `Amazon ECR` `AWS CLI v2` `Linux`
 
-### 📊 [FinPortfolio — Análise de Portfólio & Risco](https://github.com/CesarLana/FinPortfolio)
-- Aplicação analítica em Python para cálculo de fronteira eficiente (Markowitz) e modelos de alocação (Risk Parity).
-- Cálculo de métricas de risco de cauda: Value at Risk (VaR Histórico e Paramétrico) e CVaR / Expected Shortfall.
-- Painel interativo construído em **Streamlit** com gráficos via **Plotly**.
-- Cobertura com **testes unitários automatizados (pytest)** rodando via **GitHub Actions (CI)**.
-- **Tecnologias:** `Python` `Streamlit` `Docker` `Pandas` `Scipy` `GitHub Actions`
+### 📜 [Infraestrutura como Código (IaC) com AWS CloudFormation](https://github.com/CesarLana/aws-lab-cloudformation)
+- Provisionamento declarativo e gerenciamento de ciclo de vida de recursos de nuvem em YAML (VPC, Subnets, S3 e EC2).
+- Resolução dinâmica de AMIs mais recentes via **AWS Systems Manager Parameter Store**.
+- Atualizações incrementais de pilha (Change Sets) sem downtime de infraestrutura.
+- **Tecnologias:** `CloudFormation` `IaC` `YAML` `AWS SSM` `VPC` `EC2` `S3`
 
 ---
 
-## ☁️ Labs Práticos de AWS (Escola da Nuvem & Arquitetura)
+## ☁️ Labs Práticos de Arquitetura AWS (Escola da Nuvem · AWS re/Start)
 
 Repositórios contendo os códigos executáveis, scripts de automação, políticas IAM e documentação de arquitetura desenvolvidos durante a formação técnica AWS re/Start:
 
@@ -60,15 +74,16 @@ Repositórios contendo os códigos executáveis, scripts de automação, políti
 
 ## 🛠 Competências Técnicas
 
-- **Sistemas & Operações Corporativas:** Windows Server / Desktop, Microsoft 365, Azure AD (Entra ID), Active Directory, ServiceNow (ITSM), Linux.
-- **Cloud & Containers:** AWS (EC2, S3, RDS, IAM, VPC, ALB, Route 53, SSM, CloudWatch, AWS Config, Lambda), AWS CloudFormation (IaC), Docker, Docker Compose.
-- **Linguagens & Automação:** Python (Boto3, Pandas), SQL (MySQL), Bash para automação, Power BI, Git e GitHub.
+- **Cloud & Containers:** AWS (EC2, S3, RDS, IAM, VPC, ALB, Route 53, SSM, CloudWatch, Lambda), AWS CloudFormation (IaC), Docker, Docker Compose.
+- **Sistemas & Identidades:** Microsoft Entra ID (Azure AD), Active Directory, Windows Server / Desktop, Linux, ServiceNow (ITSM), Helix, InvGate, Microsoft 365.
+- **Automação & Ferramentas:** Shell Script (Bash), Python (Boto3), SQL, Git e GitHub, Power BI.
 
 ---
 
-## 🎓 Formação & Especializações
+## 🎓 Formação Acadêmica & Certificações
 
 - **Análise e Desenvolvimento de Sistemas** — FMU | FIAM-FAAM *(em curso, 4º semestre)*
-- **Formação AWS re/Start** — Escola da Nuvem *(Cloud, Redes, Segurança, Linux, Banco de Dados)*
+- **Programa AWS re/Start** — Escola da Nuvem / AWS *(Cloud, Redes, Segurança, Linux, Banco de Dados)*
 - **X Escola Avançada em Big Data Analysis** — ICMC - Universidade de São Paulo (USP)
 - **Técnico em Logística** — Etec Centro Paula Souza
+- **Manutenção de Sistemas Operacionais e Redes** — SENAI
